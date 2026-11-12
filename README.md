@@ -2,6 +2,8 @@
 
 A calm, responsive daily planner and habit tracker for building routines at your own pace. Habit Harbor runs in the browser and stores planner data locally on each device.
 
+**Live app:** [Open Habit Harbor](https://personal-planner-and-gjwc.bolt.host)
+
 ## Features
 
 - Plan, schedule, sort, complete, reschedule, and undo daily tasks.
