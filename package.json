@@ -1,7 +1,15 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "habit-harbor",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "A calm, local-first daily planner and habit tracker.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtsamthomas-ux/Harbor_Habit---Daily_Planner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rtsamthomas-ux/Harbor_Habit---Daily_Planner/issues"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +19,6 @@
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.57.4",
     "lucide-react": "^0.446.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
